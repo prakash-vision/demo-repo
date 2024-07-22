@@ -1,0 +1,9 @@
+.img-wrap {
+  border: 3px solid white;
+  background-color: #212529;
+}
+.checkout-btn {
+  background-color: #07c551;
+  color: white;
+  padding: 10px 100px;
+}
