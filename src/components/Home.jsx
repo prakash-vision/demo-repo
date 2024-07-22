@@ -9,7 +9,7 @@ const Home = () => {
       <Container fluid>
         <Row>
           <Col sm="12" md="6" className="mx-auto text-center home-page">
-            <h1 className="text-transparent">HOME PAGE DESIGN</h1>
+            <h1 className="text-transparent">HOME PAGE DESIGNB</h1>
 
             <p className="">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta
